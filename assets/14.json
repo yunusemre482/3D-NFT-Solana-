@@ -1,0 +1,50 @@
+{
+    "name": "Nft art 15",
+    "symbol": "Holo-Nft",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 10/10.",
+    "seller_fee_basis_points": 100,
+    "image": "https://holonext.io/public/images/holonextlogo.png",
+    "animation_url": "https://gateway.pinata.cloud/ipfs/QmewzBhYvkSrxvGXwRMannfAK9XxhiCW9yB3ZdCQ4rGgHF=4_3.glb?ext=glb",
+    "external_url": "https://pinata.cloud",
+    "collection": {
+       "name": "Holo's 3D NFTs",
+       "family": "3D NFTs"
+    },
+    "attributes": [
+        {
+            "trait_type": "Layer-1",
+            "value": "1"
+        },
+        {
+            "trait_type": "Layer-2",
+            "value": "1"
+        },
+        {
+            "trait_type": "Layer-3",
+            "value": "1"
+        },
+        {
+            "trait_type": "Layer-4",
+            "value": "1"
+        }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "null",
+          "type": "image/png"
+        },
+        {
+          "uri": "https://gateway.pinata.cloud/ipfs/QmewzBhYvkSrxvGXwRMannfAK9XxhiCW9yB3ZdCQ4rGgHF?filename=4_3.glb",
+          "type": "vr/glb"
+        }
+      ],
+      "category": "3D",
+      "creators": [
+        {
+          "address": "SugC8vwPMmB5RrXja22919igzTLCY9P5TdEdD1j3Fdm",
+          "share": 100
+        }
+      ]
+    }
+  }

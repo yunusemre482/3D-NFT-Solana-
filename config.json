@@ -1,0 +1,26 @@
+{
+  "price": 0.3,
+  "number": 15,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "SugC8vwPMmB5RrXja22919igzTLCY9P5TdEdD1j3Fdm",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": "SugC8vwPMmB5RrXja22919igzTLCY9P5TdEdD1j3Fdm",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "02 Aug 2022 16:00:59 +0000",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "retainAuthority": false,
+  "isMutable": true,
+  "symbol": "Holo-Nft",
+  "sellerFeeBasisPoints": 100,
+  "awsS3Bucket": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null
+}
